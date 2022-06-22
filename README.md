@@ -6,7 +6,7 @@ This is a suite of terraform related GitHub Actions that can be used together to
 These actions can be used to easily perform [Terraform](https://www.terraform.io/) tasks as part of your workflow.
 
 ## Actions
-See the documentation for the available actions:
+See the documentation for the available actions: 
 
 - [dflook/terraform-plan](terraform-plan)
 - [dflook/terraform-apply](terraform-apply)
