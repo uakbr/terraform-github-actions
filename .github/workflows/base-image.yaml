@@ -47,3 +47,4 @@ jobs:
 
           docker tag dflook/terraform-github-actions-base danielflook/terraform-github-actions-base:$GITHUB_RUN_ID
           docker push --quiet danielflook/terraform-github-actions-base:$GITHUB_RUN_ID
+          
